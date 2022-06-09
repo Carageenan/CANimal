@@ -1,0 +1,16 @@
+[
+  { "id": 1, "productId": 1, "imgUrl": "https://apollo-singapore.akamaized.net/v1/files/ytzb2tyzaqo9-ID/image" },
+  { "id": 2, "productId": 2, "imgUrl": "https://apollo-singapore.akamaized.net/v1/files/q9dc9deenmfm2-ID/image;s=850x0" },
+  { "id": 3, "productId": 3, "imgUrl": "https://cf.shopee.co.id/file/2fbf9b29ab91745c719146091bda2c5e" },
+  { "id": 4, "productId": 4, "imgUrl": "https://blogpictures.99.co/header-aquarium.jpg" },
+  { "id": 5, "productId": 5, "imgUrl": "https://i.pinimg.com/736x/be/19/ab/be19ab9f115cc64a153a9680bc5efcc2.jpg" },
+  { "id": 6, "productId": 6, "imgUrl": "https://i.chzbgr.com/full/7892440832/h9D0CBD37/carried-away-you-got" },
+  { "id": 7, "productId": 7, "imgUrl": "https://i.chzbgr.com/full/8558861568/h8BD5D16B/butbut" },
+  { "id": 8, "productId": 8, "imgUrl": "https://img-9gag-fun.9cache.com/photo/aGRz7v7_460s.jpg" },
+  { "id": 9, "productId": 9, "imgUrl": "https://blog.healthypets.com/wp-content/uploads/2017/05/cat-funny-hd-wallpapers-2012-1200x900.jpg" },
+  {
+    "id": 10,
+    "productId": 10,
+    "imgUrl": "https://st2.depositphotos.com/5155011/48862/v/600/depositphotos_488627394-stock-video-funny-puppy-german-boxer-plays.jpg"
+  }
+]

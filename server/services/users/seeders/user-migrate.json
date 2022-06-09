@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "username": "icanGans",
+    "email": "ican@gmail.com",
+    "password": "12345",
+    "role": "Customer",
+    "phoneNumber": "0875461328",
+    "address": "bogor",
+    "createdAt": "2022-04-02T10:14:08.230Z",
+    "updatedAt": "2022-04-02T10:14:08.230Z"
+  },
+  {
+    "id": 2,
+    "username": "AdminGans",
+    "email": "Admin@gmail.com",
+    "password": "12345",
+    "role": "Admin",
+    "phoneNumber": "0856479135",
+    "address": "bogor",
+    "createdAt": "2022-04-02T10:14:08.230Z",
+    "updatedAt": "2022-04-02T10:14:08.230Z"
+  },
+  {
+    "id": 3,
+    "username": "jennie",
+    "email": "jenn@gmail.com",
+    "password": "$2b$10$uVnWcb9FWcrAEJNLsAUpXeA4m2lpCBQ0vWUziZ0.sYRQd.Oe7T8Wa",
+    "role": "admin",
+    "phoneNumber": "085464646",
+    "address": "Russia",
+    "createdAt": "2022-04-02T19:05:50.786Z",
+    "updatedAt": "2022-04-02T19:05:50.786Z"
+  },
+  {
+    "id": 4,
+    "username": "albert",
+    "email": "albert@gmail.com",
+    "password": "$2b$10$silA6dgk9GXp3sojnUS.Cu27k6SWA2aHtdh6lpAe5foVn4zE6ad9O",
+    "role": "admin",
+    "phoneNumber": "085464646",
+    "address": "Russia",
+    "createdAt": "2022-04-02T19:08:13.998Z",
+    "updatedAt": "2022-04-02T19:08:13.998Z"
+  },
+  {
+    "id": 5,
+    "username": "dragon",
+    "email": "dragon@gmail.com",
+    "password": "$2b$10$yt5iQddAK4ffH5Xq5QpcPOfDUpG9vRcE6D5bL0vcykGqw6fFoJn8O",
+    "role": "admin",
+    "phoneNumber": "08546464646",
+    "address": "Belanda",
+    "createdAt": "2022-04-03T03:02:53.741Z",
+    "updatedAt": "2022-04-03T03:02:53.741Z"
+  }
+]

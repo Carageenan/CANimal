@@ -1,0 +1,5 @@
+[
+  { "id": 1, "username": "icanGans", "email": "ican@gmail.com", "password": "12345", "role": "Admin", "phoneNumber": "0875461328", "address": "bogor" },
+  { "id": 2, "username": "AdminGans", "email": "Admin@gmail.com", "password": "12345", "role": "Customer", "phoneNumber": "0856479135", "address": "bogor" },
+  { "id": 3, "username": "Jennie", "email": "jenn@gmail.com", "password": "12345", "role": "Admin", "phoneNumber": "08564746435", "address": "Amerika" }
+]

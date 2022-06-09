@@ -1,0 +1,58 @@
+{
+  "User": [
+    { "id": 1, "username": "icanGans", "email": "ican@gmail.com", "password": 12345, "role": "Customer", "phoneNumber": "0875461328", "address": "bogor" },
+    { "id": 2, "username": "AdminGans", "email": "Admin@gmail.com", "password": 12345, "role": "Admin", "phoneNumber": "0856479135", "address": "bogor" }
+  ],
+  "Product": [
+    {
+      "id": 1,
+      "name": "Cat Cage",
+      "slug": "cat-cage",
+      "description": "Cage for cat",
+      "price": "2000000",
+      "mainImg": "https://i.ytimg.com/vi/yGxRyOwu3L4/maxresdefault.jpg",
+      "categoryId": 1,
+      "authorId": 2
+    },
+    {
+      "id": 2,
+      "name": "Dog Cage",
+      "slug": "dog-cage",
+      "description": "Cage for dog",
+      "price": "3000000",
+      "mainImg": "https://apollo-singapore.akamaized.net/v1/files/7rajbyzxwe3n-ID/image;s=850x0",
+      "categoryId": 1,
+      "authorId": 2
+    },
+    {
+      "id": 3,
+      "name": "Bird Cage",
+      "slug": "bird-cage",
+      "description": "Cage for bird",
+      "price": "4000000",
+      "mainImg": "https://solusiruma.com/blog/wp-content/uploads/2019/09/kandang-burung-outdoor-berkualitas-1.jpg",
+      "categoryId": 1,
+      "authorId": 2
+    },
+    {
+      "id": 4,
+      "name": "Fish Aquarium",
+      "slug": "fish-aquarium",
+      "description": "Aquarium for fish",
+      "price": "2000000",
+      "mainImg": "https://i0.wp.com/f1-styx.imgix.net/article/2019/06/25212928/aquarium-dengan-lampu-menerangi-air-penuh-ikan.jpg?fit=1000%2C630&ssl=1",
+      "categoryId": 2,
+      "authorId": 2
+    }
+  ],
+  "Category": [
+    { "id": 1, "name": "Cage" },
+    { "id": 2, "name": "Aquarium" }
+  ],
+  "Images": [
+    { "id": 1, "productId": 1, "imgUrl": "https://apollo-singapore.akamaized.net/v1/files/ytzb2tyzaqo9-ID/image" },
+    { "id": 2, "productId": 2, "imgUrl": "https://apollo-singapore.akamaized.net/v1/files/q9dc9deenmfm2-ID/image;s=850x0" },
+    { "id": 3, "productId": 3, "imgUrl": "https://cf.shopee.co.id/file/2fbf9b29ab91745c719146091bda2c5e" },
+    { "id": 4, "productId": 4, "imgUrl": "https://blogpictures.99.co/header-aquarium.jpg" }
+  ]
+}
